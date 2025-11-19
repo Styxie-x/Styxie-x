@@ -4,10 +4,10 @@
 
 <h1 align="center"> 👋</h1>
 
-<h1 align="center">🎯 </h1>
+<h1 align="center"> </h1>
 
 <h2 align="center" style="font-size: 1.1em;">
-  🔍 Etudiante dans les domaines de l'<strong>électronique</strong>, de l'<strong>informatique</strong> et des <strong>systèmes communicants</strong>
+   Etudiante dans les domaines de l'électronique, de l'informatique et des systèmes communicants
 </h2>
 
 <!--
@@ -16,7 +16,7 @@
   <img src="/images.png" width="350px" alt="Carte de France et d'Europe - Zone de recherche"/>
 </p>
 
--->
+
 
 <h2 align="center"> 📫 Contact : <a href="mailto:im.styxie.x@gmail.com">im.styxie.x@gmail.com</a></h2>
 
@@ -91,4 +91,4 @@
 ---
 
 ✨ *Merci de ta visite ! N’hésite pas à me contacter ou à jeter un œil à mes projets*
-
+-->
