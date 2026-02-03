@@ -1,94 +1,60 @@
 <p align="right">
-  🇬🇧 <a href="ReadmeENG.md">Read this page in English</a>
+  🇫🇷 <a href="ReadmeFR.md">Version Française</a>
 </p>
 
-<h1 align="center"> 👋</h1>
+<div align="center">
+  <h1>Jade | Styxie-x <br>
+  <img src="https://img.shields.io/badge/She_/_Her-FF69B4?style=for-the-badge" />
+  </h1>
 
-<h1 align="center"> </h1>
+  <p><b> Geek • Nerd • Arch Linux User </b></p>
+  
+  <br>
 
-<h2 align="center" style="font-size: 1.1em;">
-   Etudiante dans les domaines de l'électronique, de l'informatique et des systèmes communicants
-</h2>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <br>
+  
+  <img src="https://img.shields.io/badge/Electronic_&_Electrical_Engineer-D35400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware_Designer-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded_Systems_Engineer-2980B9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Developer-27AE60?style=for-the-badge" />
+  <br>
 
-<!--
+  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <br>
+
+  <img src="https://img.shields.io/badge/RF_Design-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA_/_VHDL-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-808080?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/LTSpice-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KiCad-314C9B?style=for-the-badge&logo=kicad&logoColor=white" />
+</div>
+
+---
+
+### Profile
+I am a 23-year-old engineering student specializing in electronics, computer science, and communicating systems. I focus on the intersection of hardware and software, developing primarily on **Arch Linux**. I bridge the gap between physical circuits and digital logic through low-level programming and robust hardware design.
+
+---
+
+### Performance Analytics
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Styxie-x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
 <p align="center">
-  <img src="/images.png" width="350px" alt="Carte de France et d'Europe - Zone de recherche"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styxie-x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Styxie-x&theme=tokyonight&hide_border=true" />
 </p>
-
-
-
-<h2 align="center"> 📫 Contact : <a href="mailto:im.styxie.x@gmail.com">im.styxie.x@gmail.com</a></h2>
-
-
-
-
-
----
-
-<p align="center">
-  <a href="https://github.com/Styxie"><img src="https://komarev.com/ghpvc/?username=Styxie-x&style=flat-square&color=blue" alt="Profile views"/>
-<a href="https://github.com/Styxie-x?tab=followers"><img src="https://img.shields.io/github/followers/Styxie-x?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/></a>
-</p>
-
----
-
-### 👩‍💻 À propos de moi
-
-🎓 Étudiant passionné par l’électronique, l’informatique embarquée, l’automatisation, la programmation et les technologies en général.  
-📡 Je conçois des projets combinant **électronique**, **microcontrôleurs / microprocesseurs / FPGA**, **informatique embarquée**, **IoT**, **capteurs**, **systèmes de communication**, **interfaces graphiques (IHM)**, etc.  
-🔧 Plusieurs de mes projets sont disponibles sur [mon GitHub](https://github.com/Styxie-x?tab=repositories).  
-💬 N'hésitez pas à explorer ou contribuer !
-
----
-
-### 🔨 Projets récents et compétences clés
-
-- 🎶 **Chef de projet** : table de mixage audio hybride avec entrées analogiques/MIDI, sous Linux (Raspberry Pi OS), programmée en C.
-- 🔌 **Multimètre, oscilloscope et capteurs** (température, luminosité) avec STM32 + IHM en JavaScript via port série.
-- 🌐 **Projet IoT** : stations météo connectées (ESP32, Arduino), avec serveur local Raspberry Pi.
-- 🎹 **Clavier MIDI** : génération de signaux MIDI + audio analogique.
-- 🌍 **Développement en cours** d’un site portfolio en HTML/CSS/JavaScript.
-- 🛠️ **Divers projets** en électronique, systèmes embarqués et modélisation 3D visibles [ici](https://github.com/Styxie-x?tab=repositories).
-
----
-
-### 🧠 Technologies & outils utilisés
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,windows,raspberrypi,arduino,c,cpp,git,github,gitlab,anaconda,python,bash,cmake,js,html,css,wordpress,vscode,nodejs,discord,eclipse,gmail,matlab" alt="Tech stack"/>
-</p>
-
----
-
-### 📊 Langages les plus utilisés
-
-<p align="center">
-  <a href="https://github.com/Styxie-x/Styxie-x">
-   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styxie-x&layout=compact&langs_count=12&theme=dracula&hide=html" alt="Top Languages"/>
-
-  </a>
-</p>
-
----
-
-### 📈 Mes statistiques GitHub
-
-<p align="center">
-  <a href="https://github.com/Styxie-x/Styxie-x">
-    <img height="280em" src="https://github-readme-stats.vercel.app/api?username=Styxie-x&show_icons=true&count_private=true&include_all_commits=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
-  </a>
-</p>
-
----
-
-### 🔥 Activité continue
-
-<p align="center">
-  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=Styxie-x&theme=dracula" alt="GitHub Streak"/>
-</p>
-
----
-
-✨ *Merci de ta visite ! N’hésite pas à me contacter ou à jeter un œil à mes projets*
--->
