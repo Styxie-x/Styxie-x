@@ -51,10 +51,10 @@ I am a 23-year-old engineering student specializing in electronics, computer sci
 
 ### Performance Analytics
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Styxie-x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Styxie-x&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styxie-x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Styxie-x&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styxie-x&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Styxie-x&theme=dracula&hide_border=true" />
 </p>
