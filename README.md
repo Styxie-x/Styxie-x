@@ -3,8 +3,9 @@
 </p>
 
 <div align="center">
-  <h1>Jade | Styxie-x <br>
-  <img src="https://img.shields.io/badge/She_/_Her-FF69B4?style=for-the-badge" />
+  <h1>Styxie-x <br>
+ <!-- <img src="https://img.shields.io/badge/She_/_Her-FF69B4?style=for-the-badge" /> -->
+
   </h1>
 
   <p><b> Geek • Nerd • Arch Linux User </b></p>
