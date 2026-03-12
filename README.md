@@ -46,8 +46,7 @@
 ---
 
 ### Profile
-I am a 23-year-old engineering student specializing in electronics, computer science, and communicating systems. I focus on the intersection of hardware and software, developing primarily on **Arch Linux**. I bridge the gap between physical circuits and digital logic through low-level programming and robust hardware design.
-
+Engineering student specializing in electronics, computer science, and communicating systems. I focus on the intersection of hardware and software, developing primarily on **Arch Linux**.
 ---
 
 
