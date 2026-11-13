@@ -1,6 +1,8 @@
-<p align="right">
+ <!--
+ <p align="right">
   🇫🇷 <a href="ReadmeFR.md">Version Française</a>
 </p>
+-->
 
 <div align="center">
   <h1>Styxie-x <br>
